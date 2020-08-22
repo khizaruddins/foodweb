@@ -1,7 +1,7 @@
 {
-  "name": "shubham",
+  "name": "khizaruddins",
   "version": "1.0.0",
-  "description": "food delivery website",
+  "description": "food website template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
