@@ -1,7 +1,7 @@
 const StaticServer = require('static-server');
 
 const server = new StaticServer({
-    rootPath: '../shubham/webfront',
+    rootPath: '../webfront',
     port: 3000
 });
 

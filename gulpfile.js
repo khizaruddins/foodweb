@@ -15,7 +15,7 @@ const imageminJpegRecompress = require('imagemin-jpeg-recompress');
 // File Paths
 var distPath = 'dist';
 var scriptsPath = 'assets/js/**/*.js';
-var sassPath = 'assets/css/**/*.sass';
+var sassPath = 'assets/css/**/styles.sass';
 var pugPath = 'templates/layouts/*.pug';
 var imgPath = 'assets/images/**.*{png,jpeg,jpg,gif,svg}';
 
